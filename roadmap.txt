@@ -1,0 +1,21 @@
+make POST API for adding data to the database//
+make GET API for fetching data from the database//
+make PATCH API for updating data in the database
+make DELETE API for deleting data from the database
+
+
+
+fetch data on frontend from GET API//
+add data from frontend to the database using POST API//
+
+
+update data from frontend to the database using PATCH API
+delete data from frontend to the database using DELETE API        
+
+
+
+service providers should have a toggle button to show their availability
+  chat support via socket.io
+
+rating system for service providers
+
